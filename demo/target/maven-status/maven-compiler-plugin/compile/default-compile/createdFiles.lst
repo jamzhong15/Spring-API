@@ -1,5 +1,6 @@
+test/model/Person.class
 test/Test.class
-test/PersonRepository.class
 test/Application.class
-test/Person.class
-test/PersonController.class
+test/service/PersonService.class
+test/dao/PersonRepository.class
+test/web/PersonController.class
