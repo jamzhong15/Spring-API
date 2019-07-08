@@ -1,2 +1,2 @@
 # Springboot-API
-Creating API using Java Spring and MySQL 
+Creating a Web API using Java Spring and MySQL 
